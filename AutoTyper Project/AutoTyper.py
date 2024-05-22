@@ -6,7 +6,7 @@ import time
 #Creating window
 
 root = tk.Tk()
-img = tk.PhotoImage(file="C:/Users/risha/OneDrive/Desktop/AutoTyper Project/logo.png")
+img = tk.PhotoImage(file="./AutoTyper Project/logo.png")
 root.iconphoto(False, img)
 root.geometry("720x500")
 root.title("AutoTyper App")
