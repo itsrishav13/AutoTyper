@@ -1,7 +1,6 @@
-
-Here's a README.md for your AutoTyper App:
-
 AutoTyper App
+
+
 The AutoTyper App is a simple automation tool built with Python and Tkinter. It allows users to paste a block of text, specify how many times they want it typed, and control the typing speed to simulate human-like typing. The app can also automatically press "Enter" after each typed line if required.
 
 Features
