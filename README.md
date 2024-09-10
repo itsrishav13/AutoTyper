@@ -25,7 +25,7 @@ Clone or download the project:
 
 bash
 Copy code
-git clone https://github.com/your-repo/autotyper-app.git
+git clone [https://github.com/your-repo/autotyper-app.git](https://github.com/itsrishav13/AutoTyper.git)
 Navigate to the project directory:
 
 bash
